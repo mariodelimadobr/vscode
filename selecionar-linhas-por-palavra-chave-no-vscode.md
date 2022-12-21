@@ -7,4 +7,4 @@
 
 Observações:
 - este procedimento permite copiar/recortar as linhas, mas adiona uma linha em branco entre as mesmas.
-- para saber como remover as linhas veja 
+- para saber como remover as linhas veja https://github.com/mariodelimadobr/vscode/blob/main/remover-linhas-em-branco-no-vscode.md
