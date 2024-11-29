@@ -1,0 +1,5 @@
+Add into input search
+^(.{44})\s+(\d.*)
+
+Add into input replace
+$1$2
